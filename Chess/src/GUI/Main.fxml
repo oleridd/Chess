@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane fx:id="anchor" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.Controller">
+   <children>
+      <Group>
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutY="600.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutY="500.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutY="400.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutY="300.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutY="200.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutY="100.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="100.0" layoutY="700.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="100.0" layoutY="600.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="100.0" layoutY="500.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="100.0" layoutY="400.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="100.0" layoutY="300.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="100.0" layoutY="200.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="100.0" layoutY="100.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="100.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="200.0" layoutY="700.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="200.0" layoutY="600.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="200.0" layoutY="500.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="200.0" layoutY="400.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="200.0" layoutY="300.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="200.0" layoutY="200.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="200.0" layoutY="100.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="200.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="300.0" layoutY="700.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="300.0" layoutY="600.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="300.0" layoutY="500.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="300.0" layoutY="400.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="300.0" layoutY="300.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="300.0" layoutY="200.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="300.0" layoutY="100.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="300.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="400.0" layoutY="700.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="400.0" layoutY="600.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="400.0" layoutY="500.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="400.0" layoutY="400.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="400.0" layoutY="300.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="400.0" layoutY="200.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="400.0" layoutY="100.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="400.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="500.0" layoutY="700.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="500.0" layoutY="600.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="500.0" layoutY="500.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="500.0" layoutY="400.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="500.0" layoutY="300.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="500.0" layoutY="200.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="500.0" layoutY="100.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="500.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="600.0" layoutY="700.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="600.0" layoutY="600.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="600.0" layoutY="500.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="600.0" layoutY="400.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="600.0" layoutY="300.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="600.0" layoutY="200.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="600.0" layoutY="100.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="600.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="700.0" layoutY="700.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="700.0" layoutY="600.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="700.0" layoutY="500.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="700.0" layoutY="400.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="700.0" layoutY="300.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="700.0" layoutY="200.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#adffda" height="100.0" layoutX="700.0" layoutY="100.0" onMouseEntered="#moveHighlighterEvent" stroke="WHITE" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutX="700.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00574a" height="100.0" layoutY="700.0" onMouseEntered="#moveHighlighterEvent" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+         </children>
+      </Group>
+      <Group fx:id="PieceGroup">
+         <children>
+            <ImageView fx:id="b_rook_1" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_rook.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_rook_2" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_rook.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_knight_1" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_knight_right.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_knight_2" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_knight_left.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_bishop_1" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_bishop.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_bishop_2" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_bishop.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_king" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_king.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_queen" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_queen.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_pawn_1" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_pawn_2" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_pawn_3" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_pawn_4" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_pawn_5" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_pawn_6" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_pawn_7" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="b_pawn_8" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/b_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_pawn_1" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_pawn_2" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_pawn_3" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_pawn_4" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_pawn_5" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_pawn_6" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_pawn_7" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_pawn_8" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_pawn.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_rook_1" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_rook.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_knight_1" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_knight_right.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_bishop_1" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_bishop.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_queen" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_queen.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_king" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_king.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_bishop_2" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_bishop.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_knight_2" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_knight_left.png" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="w_rook_2" fitHeight="100.0" fitWidth="100.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="file:/c:/Users/oleri/OneDrive%20-%20NTNU/Progging/Java/Chess/lib/Piece_icons/w_rook.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Group>
+      <Rectangle fx:id="mover" arcHeight="5.0" arcWidth="5.0" fill="#00c8ff00" height="100.0" opacity="0.75" stroke="#d00000f7" strokeType="INSIDE" strokeWidth="6.0" width="100.0" />
+      <Rectangle fx:id="highlighter" arcHeight="5.0" arcWidth="5.0" fill="#00c8ff00" height="100.0" opacity="0.75" stroke="#00bbff" strokeType="INSIDE" strokeWidth="6.0" width="100.0" />
+      <Group>
+         <children>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutY="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="100.0" layoutY="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="200.0" layoutY="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="300.0" layoutY="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="400.0" layoutY="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="500.0" layoutY="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="600.0" layoutY="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="700.0" layoutY="100.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutY="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="100.0" layoutY="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="200.0" layoutY="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="300.0" layoutY="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="400.0" layoutY="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="500.0" layoutY="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="600.0" layoutY="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="700.0" layoutY="200.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutY="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="100.0" layoutY="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="200.0" layoutY="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="300.0" layoutY="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="400.0" layoutY="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="500.0" layoutY="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="600.0" layoutY="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="700.0" layoutY="300.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutY="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="100.0" layoutY="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="200.0" layoutY="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="300.0" layoutY="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="400.0" layoutY="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="500.0" layoutY="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="600.0" layoutY="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="700.0" layoutY="400.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutY="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="100.0" layoutY="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="200.0" layoutY="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="300.0" layoutY="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="400.0" layoutY="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="500.0" layoutY="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="600.0" layoutY="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="700.0" layoutY="500.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutY="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="100.0" layoutY="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="200.0" layoutY="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="300.0" layoutY="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="400.0" layoutY="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="500.0" layoutY="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="600.0" layoutY="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="700.0" layoutY="600.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutY="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="100.0" layoutY="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="200.0" layoutY="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="300.0" layoutY="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="400.0" layoutY="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="500.0" layoutY="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="600.0" layoutY="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="100.0" layoutX="700.0" layoutY="700.0" onMouseClicked="#clickedEvent" onMouseEntered="#moveHighlighterEvent" opacity="0.0" stroke="BLACK" strokeType="INSIDE" width="100.0" />
+         </children>
+      </Group>
+   </children>
+</AnchorPane>

@@ -1,0 +1,2 @@
+In Tile.java: Change the getInReach method st. it only returns a boolean and avoids ArrayLists
+Fix bug where slow moving mouse does not move selector (mover)
